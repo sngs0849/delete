@@ -1,4 +1,3 @@
 1_From_TestBranch
 Updated from master
-Updated from Feature_1
-Updated second time from Feature_1
+Update from Master 2
